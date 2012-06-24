@@ -35,7 +35,7 @@ Sample session:
   #=> true
   > %W(a b c d e f).window(3, 2) # window size: 3, centered in element: 2
   #=> ["b", "c", "d"]
-  > (0..530).to_a.window(8, 527) # window size: 8, centered in element: 527, retrieve more greater elements if possible by default
+  > (0..530).to_a.window(8, 528) # window size: 8, centered in element: 528
   #=> [523, 524, 525, 526, 527, 528, 529, 530]
   > (0..13).to_a.window(2, 9, :prioritize_lower) # window size: 2, centered in element: 9, retrieve more lower elements if possible
   #=> [8, 9]
