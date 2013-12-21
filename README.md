@@ -1,6 +1,8 @@
 Array window for Ruby
 =====================
 
+<a href="http://www.omniref.com/ruby/gems/array-window"><img src="http://assets2.omniref.com/assets/logo-1e25ba89780a42da4556dd96c03ac954.png" height="18" width="75"></a>
+
 Overview
 --------
 
